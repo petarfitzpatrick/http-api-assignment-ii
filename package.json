@@ -1,0 +1,20 @@
+{
+  "name": "http-api-assignment-ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"No Tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petarfitzpatrick/http-api-assignment-ii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petarfitzpatrick/http-api-assignment-ii/issues"
+  },
+  "homepage": "https://github.com/petarfitzpatrick/http-api-assignment-ii#readme"
+}
